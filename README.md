@@ -3,9 +3,13 @@
  OpenSRC Base To Help In The Aide of Making VRChat Mods
 
 • Our Site: https://spacewarecheats.com
+
 • Discord Server: https://discord.gg/SpacedOut
+
 • Founders: Joshua, Meli, Maxie, Saint, Panda, SwordSith
+
 • Development Team: Joshua, Meli, Maxie, Saint, Panda, SwordSith
+
 • Chief Financial Officer: Saint
 
 # Preview
