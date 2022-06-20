@@ -3,7 +3,7 @@ OpenSRC Base To Help In The Aide of Making VRChat Mods
 
 ### SpacewareCheats Information
 
-My Site: https://spacewarecheats.com
+Our Site: https://spacewarecheats.com
 
 Discord Server: https://discord.gg/SpacedOut
 
